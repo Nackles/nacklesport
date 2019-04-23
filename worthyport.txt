@@ -1,0 +1,24 @@
+Crystal Collector
+https://nackles.github.io/unit-4-game
+https://github.com/Nackles/unit-4-game
+
+Gif Search
+https://nackles.github.io/Giffy/
+https://github.com/Nackles/Giffy
+
+Project 2 - RecipEasy
+https://github.com/Nackles/RecipEasy
+https://quietevolver.github.io/RecipEasy/
+
+Liribot - VIDEO REQUIRED
+https://github.com/Nackles/liribot
+
+Glamazon - VIDEO REQUIRED
+https://github.com/Nackles/glamazon
+
+Friender
+https://github.com/Nackles/friender
+http://friendfriender.herokuapp.com/survey
+
+Burgerbar
+https://github.com/Nackles/burgerbar
