@@ -2,18 +2,34 @@
 <html lang="en">
 
 <head>
+    {{!-- Boilerplate --}}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    {{!-- My boilerplate --}}
     <title>Nick Aaland's Portfolio</title>
+    {{!-- FAVICON GOES HERE --}}
     {{!-- Materialize CSS --}}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
-</head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    </head>
 
 <body>
 
-    
+    <div class='top-bar'>
+        <div class='personal-info'>
+            <div class='personal-logo'>Nackles</div>
+            <div class='personal-links'>
+                <a class='linkedin-link' href='https://www.linkedin.com/in/nickaaland/'>LinkedIn</a>
+                <a class='github-link' href='https://github.com/Nackles'>Github</a>
+                <a class='contact-link' href='mailto:nick.aaland@gmail.com'>nick.aaland@gmail.com</a>
+            </div>
+        </div>
+        <div class='nav'></div>
+    </div>
+
+    {{{body}}}
+
     {{!-- jQuery --}}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     {{!-- Materialize JS --}}
